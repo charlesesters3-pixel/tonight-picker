@@ -1,8 +1,8 @@
 :root {
-  --bg: #12142a;
-  --panel: #1b1e3d;
-  --text: #f3efe4;
-  --muted: #a9a7c4;
+  --bg: #cfe8fb;
+  --panel: #ffffff;
+  --text: #1b1e3d;
+  --muted: #5b6b8c;
   --accent: #f0a75a;
   --danger: #e0645a;
 }
@@ -117,7 +117,7 @@ li {
   flex: 1;
   padding: 0.6rem 0.75rem;
   border-radius: 8px;
-  border: 1px solid var(--panel);
+  border: 1px solid var(--bg);
   background: var(--panel);
   color: var(--text);
   font-family: inherit;
